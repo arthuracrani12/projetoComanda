@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428918789273",
+    "project_id": "ofcgerenciador",
+    "storage_bucket": "ofcgerenciador.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428918789273:android:6d36a1235e6fef6c371408",
+        "android_client_info": {
+          "package_name": "com.primeiro.comandaeestoque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428918789273-6cpqk7468scdo529b8sl4698g817e42m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.primeiro.comandaeestoque",
+            "certificate_hash": "388db52885a6612328a9ec1f5bec921418a20418"
+          }
+        },
+        {
+          "client_id": "428918789273-8susf6mbhtrr236inm57krig0jtsqv92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhkBm63yApQ0n81uPI6U9FBNKAJ2JBC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428918789273-8susf6mbhtrr236inm57krig0jtsqv92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
